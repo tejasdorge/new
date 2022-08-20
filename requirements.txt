@@ -1,1 +1,1 @@
-git log base is not bad
+git log base
