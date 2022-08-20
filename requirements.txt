@@ -1,1 +1,1 @@
-git log base
+git log base 2
