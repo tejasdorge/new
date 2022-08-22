@@ -1,1 +1,1 @@
-git log base 1
+text editor
